@@ -3,8 +3,9 @@
 
 # Projeto Urban Arts
 
-
-#### Projeto destinado para início de aprendizado no framework
+<div align ="center">
+          <h3>Projeto destinado para início de aprendizado no framework</h3>
+</div>          
 
 #
 

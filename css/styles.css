@@ -1,0 +1,29 @@
+ @import url('https://fonts.googleapis.com/css2?family=Passions+Conflict&family=Roboto:ital,wght@0,100;0,300;0,400;1,100&display=swap');
+
+#vanta-canvas{
+    width: 100vw;
+    height: 55vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 5px rgb(134, 134, 134);
+}
+
+#vanta-canvas h1{
+    color:#37474F; 
+    font-size: 10rem;
+    font-weight: bold;
+    font-family: 'Passions Conflict', cursive;
+    box-shadow: 3px 3px rgb(12, 12, 12), -1em 0 0.4em rgb(255, 255, 255);
+    
+}
+
+#vanta-canvas h2{
+    align-items: center;
+}
+
+.bi-brush{
+    font-size: 80px;
+    color: #37474F;
+}
+

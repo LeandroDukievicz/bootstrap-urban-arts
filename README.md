@@ -1,7 +1,7 @@
 <img  align="right" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
           
 
-# Projeto Urban Arts
+# Projeto Artes Urbanas
 
 <div align ="center">
           <h3>Projeto destinado para início de aprendizado no framework</h3>

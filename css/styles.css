@@ -61,10 +61,13 @@ a,i{
     display: flex;
     justify-content: center;
 }
+.container-fluid{
+    box-shadow: 2px 2px 2px rgb(134, 134, 134);
+}
 
 #logo{
 
-    width: 50px;
+    width: 35px;
     margin-right: 25px;
 }
 
@@ -81,4 +84,20 @@ a,i{
 #navbar a:hover{
     color: rgb(0, 119, 255);
     letter-spacing: 0.1rem;
+}
+
+.main-image {
+    height: 400px;
+    background-image: url('../img/g_1.jpg');
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.main-image-info{
+    background-color: #fff;
+    padding: 25px;
+    position: absolute;
+    left: 25px;
+    bottom: 25px;
+    box-shadow: 5px 5px 5px rgb(182, 182, 182);
 }

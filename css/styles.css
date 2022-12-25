@@ -8,6 +8,10 @@ a,i{
     text-decoration: none;
 }
 
+#h1-center{
+    text-align: center;
+}
+
 .secondary-color{
     color:#555;
 }
@@ -31,7 +35,7 @@ a,i{
 }
 
 #vanta-canvas{
-    width: 100vw;
+    width:100%;
     height: 55vh;
     display: flex;
     justify-content: center;
@@ -101,3 +105,62 @@ a,i{
     bottom: 25px;
     box-shadow: 5px 5px 5px rgb(182, 182, 182);
 }
+
+#img2{
+    background-image: url('../img/g_2.jpg');
+    box-shadow: 5px 5px 5px rgb(182, 182, 182);
+}
+
+#img3{
+    background-image: url('../img/g_3.jpg');
+    box-shadow: 5px 5px 5px rgb(182, 182, 182);
+}
+
+#img4{
+    background-image: url('../img/g_4.jpg');
+    box-shadow: 5px 5px 5px rgb(182, 182, 182);
+}
+
+#img5{
+    background-image: url('../img/g_5.jpg');
+    box-shadow: 5px 5px 5px rgb(182, 182, 182);
+}
+
+#img6{
+    background-image: url('../img/g_6.jpg');
+    box-shadow: 5px 5px 5px rgb(182, 182, 182);
+}
+
+#gallery-container{
+    text-align: left;
+}
+
+#gallery-container h1,
+#gallery-container .col-md-6,
+#gallery-container .col-12{
+    margin-bottom: 50px;
+}
+
+.small-image-container{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+
+#social-icons-container {
+    padding: 25px;
+  }
+  
+  #social-icons-container div {
+    text-align: center;
+  }
+  
+  footer p {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  a:hover i {
+    color: #0059ff;
+  }

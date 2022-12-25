@@ -79,6 +79,6 @@ a,i{
 }
 
 #navbar a:hover{
-    color:#c1b696;
+    color: rgb(0, 119, 255);
     letter-spacing: 0.1rem;
 }
